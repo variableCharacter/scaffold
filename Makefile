@@ -10,3 +10,5 @@ lint:
 
 test:
 	python -m pytest -vv --cov=hello test_hello.py
+
+#do not test this
